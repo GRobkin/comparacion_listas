@@ -62,8 +62,9 @@ Exportación  297             278             246
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pc Setup:
-Procesador Ryzen 7 5800x3D
-Placa Madre Aorus B550 pro V2
-RAM 32GB x2 Kingston Fury Beast 16GB DDR4 3600Mhz
-ADATA 256Gb XPG SPECTRIX S40G M.2 NVMe SSD
+- **Processador**: Ryzen 7 5800X3D
+- **Placa Madre**: Aorus B550 Pro V2
+- **Memoria RAM**: 32GB (2x16GB Kingston Fury Beast DDR4 3600MHz)
+- **Almacenamiento**: ADATA 256GB XPG SPECTRIX S40G M.2 NVMe SSD
+
 
