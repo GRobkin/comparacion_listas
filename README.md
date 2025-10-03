@@ -44,20 +44,27 @@ Exportação	(tempo)	(tempo)	(tempo)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Se ejecuto 3 veces el código, estos son los resultados:
 
-Operación    ArrayList (ms)  LinkedList (ms) Vector (ms)    
-Registro     205             82              119            
-Ordenación   131             123             104            
-Exportación  304             267             270  
+| Operación      | ArrayList (ms) | LinkedList (ms) | Vector (ms) |
+| ------------- | -------------- | --------------- | ----------- |
+| **Registro**  | 205            | 82              | 119         |
+| **Ordenar**   | 131            | 123             | 104         |
+| **Exportación**| 304           | 267             | 270         |
 
-Operación    ArrayList (ms)  LinkedList (ms) Vector (ms)    
-Registro     189             95              111            
-Ordenación   133             131             103            
-Exportación  311             287             272    
+---
 
-Operación    ArrayList (ms)  LinkedList (ms) Vector (ms)    
-Registro     186             82              105            
-Ordenación   131             124             103            
-Exportación  297             278             246   
+| Operación      | ArrayList (ms) | LinkedList (ms) | Vector (ms) |
+| ------------- | -------------- | --------------- | ----------- |
+| **Registro**  | 189            | 95              | 111         |
+| **Ordenar**   | 133            | 131             | 103         |
+| **Exportación**| 311           | 287             | 272         |
+
+---
+
+| Operación      | ArrayList (ms) | LinkedList (ms) | Vector (ms) |
+| ------------- | -------------- | --------------- | ----------- |
+| **Registro**  | 186            | 82              | 105         |
+| **Ordenar**   | 131            | 124             | 103         |
+| **Exportación**| 297           | 278             | 246         |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
